@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Jack()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Jack\r\n
+comment1.params=card
+comment1.target=int\ playCard(java.lang.Object)
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KingA()
+comment1.params=winner\ target
+comment1.target=void\ getEffect(Player,\ Player)
+numComments=2

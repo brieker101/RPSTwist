@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Card()
+comment1.params=
+comment1.target=int\ getDamage()
+comment2.params=
+comment2.target=int\ getHeal()
+comment3.params=dmg
+comment3.target=void\ setDamage(int)
+comment4.params=hp
+comment4.target=void\ setHeal(int)
+comment5.params=card1\ card2\ p1\ p2
+comment5.target=void\ playCard(Card,\ Card,\ Player,\ Player)
+comment6.params=winner\ target
+comment6.target=void\ getEffect(Player,\ Player)
+numComments=7
